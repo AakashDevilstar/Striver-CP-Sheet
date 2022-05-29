@@ -24,6 +24,6 @@ int main(){
             ans+=20;
         }
     }
-    cout<<ans<<endl;
+    cout<<ans<<endl; 
     return 0;
 }
